@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+data/
+output/
+input/
+augment/
+normalize_images/
+normalized_images/
+
+reduced_dataset.csv
+reduced_test_glcm_dataset.csv
+reduced_train_glcm_dataset.csv
